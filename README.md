@@ -35,7 +35,7 @@ sudo dnf install git python3 gcc g++ gawk which bzip2 chrpath cpio \
 ### 2) Download the source
 
 ```sh
-git clone https://github.com/openbmc/openbmc opbmc_repo
+git clone https://github.com/macchen-yu/opbmc_repo.git -b master opbmc_repo
 cd opbmc_repo
 ```
 
